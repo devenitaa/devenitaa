@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![alt text](https://github.com/devenitaa/devenitaa/blob/main/hai.jpg?raw=true)
+
 Hello! My name is Venita, and I am currently living in Yogyakarta. I am a student at Universitas Gadjah Mada, majoring in Geophysics. I have always been passionate about learning and challenging myself to grow both academically and personally.
 
 People often describe me as a hardworking, creative, and responsible person. I enjoy collaborating with others but I can also work independently when needed. Although I sometimes feel a bit shy in new environments, I always try to adapt and push myself to be more confident.
